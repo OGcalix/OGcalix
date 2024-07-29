@@ -4,13 +4,13 @@
   </div> 
 
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/ogcalix.ttv/">
+  <a href="https://www.instagram.com/ogcalix.ttv/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
   </a>
-  <a href="https://www.twitch.tv/ogcalix">
+  <a href="https://www.twitch.tv/ogcalix" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
   </a>
-   <a href="https://discord.com/invite/N4u2zWHs">
+   <a href="https://discord.com/invite/N4u2zWHs" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
   </a>
 </div>
