@@ -4,15 +4,9 @@
   </div> 
 
 <div id="badges" align="center">
-  <a href="https://www.instagram.com/ogcalix.ttv/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/>
-  </a>
-  <a href="https://www.twitch.tv/ogcalix" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/>
-  </a>
-   <a href="https://discord.com/invite/N4u2zWHs" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/>
-  </a>
+  <a href="https://www.instagram.com/ogcalix.ttv/" style="text-decoration: none;"><img src="https://img.shields.io/badge/instagram-orange?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram Badge"/></a>
+  <a href="https://www.twitch.tv/ogcalix" style="text-decoration: none;"><img src="https://img.shields.io/badge/twitch-purple?style=for-the-badge&logo=twitch&logoColor=white" alt="twitch Badge"/></a>
+  <a href="https://discord.com/invite/jaVK63DT" style="text-decoration: none;"><img src="https://img.shields.io/badge/discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="discord Badge"/></a>
 </div>
 
 ---
@@ -24,10 +18,11 @@
 
 - :hugs: Looking for new friends to share memes with and ask basic things about coding
 
-- :mailbox: Drop a DM or add me in Discord  [![Discord Badge](https://img.shields.io/badge/-OGcalix-blue?style=flat&logo=Discord&logoColor=white)](https://discord.com/invite/N4u2zWHs)
+- :mailbox: Drop a DM or add me in Discord  [![Discord Badge](https://img.shields.io/badge/-OGcalix-blue?style=flat&logo=Discord&logoColor=white)](https://discord.com/invite/jaVK63DT)
 
-Already need someone to help me why theres little blue lines between the socials buttons loooool
-<img src="https://streammentor.com/wp-content/uploads/2020/12/output-onlinepngtools9.png" width="50">Im so lost already
+First issue resolved by a legend K
+<br>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjFmZjgxZWg4OXRsbmk0c3ExcjF2MDZwd2dqZHFyZnFlMmcwZHZ1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aQwvKKi4Lv3t63nZl9/giphy.gif" width="50">
  </div>
 
  <div align="right"> 
